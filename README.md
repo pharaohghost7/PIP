@@ -1,7 +1,7 @@
 # Game Project
 
-´´´sh
+```sh
 cd game
 python3 main.py
 
-´´´
+```
